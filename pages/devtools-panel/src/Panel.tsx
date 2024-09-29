@@ -17,7 +17,7 @@ const Panel = () => {
           <img src={chrome.runtime.getURL(logo)} className="App-logo" alt="logo" />
         </button>
         <p>
-          Edit <code>pages/devtools-panel/src/Panel.tsx</code>
+          Edit <code>pages/devtools-panel/src/Panel.tsx 333333</code>
         </p>
         <ToggleButton>Toggle theme</ToggleButton>
       </header>
